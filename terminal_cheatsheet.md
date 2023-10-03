@@ -7,7 +7,7 @@
 - cd change directory
 - .. back through a folder
 - mkdir make directory
-- ßtouch make file
+- touch make file
 - rm remove a file
 - rmdir remove a folder and everything inside it
 - mv file new_file rename a file
